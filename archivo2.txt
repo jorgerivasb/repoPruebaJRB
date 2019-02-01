@@ -1,0 +1,9 @@
+
+    init
+    add
+    checkout
+    commit
+    pull
+    merge
+    push
+    clone
